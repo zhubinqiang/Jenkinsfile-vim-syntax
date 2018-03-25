@@ -4,6 +4,8 @@ syn keyword jenkinsfileBuiltInVariable env
 syn keyword jenkinsfileBuiltInVariable params
 syn keyword jenkinsfileBuiltInVariable scm
 syn keyword jenkinsfileBuiltInVariable docker
+syn keyword jenkinsfileBuiltInVariable agent
+syn keyword jenkinsfileBuiltInVariable label
 
 syn keyword jenkinsfileCoreStep archiveArtifacts
 syn keyword jenkinsfileCoreStep bat
