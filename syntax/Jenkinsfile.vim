@@ -78,6 +78,8 @@ syn keyword jenkinsfileCoreStep withDockerRegistry
 syn keyword jenkinsfileCoreStep withDockerServer
 
 
+syn keyword jenkinsfileCoreStep stages
+
 syn keyword jenkinsfilePluginStep emailext
 syn keyword jenkinsfilePluginStep exwsAllocate
 syn keyword jenkinsfilePluginStep exws
