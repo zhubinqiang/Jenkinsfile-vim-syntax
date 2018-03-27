@@ -79,6 +79,7 @@ syn keyword jenkinsfileCoreStep withDockerServer
 
 
 syn keyword jenkinsfileCoreStep stages
+syn keyword jenkinsfileCoreStep post
 
 syn keyword jenkinsfilePluginStep emailext
 syn keyword jenkinsfilePluginStep exwsAllocate
@@ -93,4 +94,8 @@ hi link jenkinsfilePluginStep Include
 hi link jenkinsfileBuiltInVariable Identifier
 
 set expandtab
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+
 let b:current_syntax = "Jenkinsfile"
