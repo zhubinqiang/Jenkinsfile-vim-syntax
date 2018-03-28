@@ -93,9 +93,4 @@ hi link jenkinsfileCoreStep Function
 hi link jenkinsfilePluginStep Include
 hi link jenkinsfileBuiltInVariable Identifier
 
-set expandtab
-set tabstop=4
-set shiftwidth=4
-set softtabstop=4
-
 let b:current_syntax = "Jenkinsfile"
